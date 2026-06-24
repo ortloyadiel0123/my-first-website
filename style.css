@@ -3,6 +3,10 @@ body {
     font-family: sans-serif;
     text-align: center;
 }
+div{
+    background-color:blue;
+    border:solid 5px;
+    border color: green;
 h1 {
     color: #333;
 }
